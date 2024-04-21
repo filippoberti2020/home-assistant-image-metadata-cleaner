@@ -1,6 +1,6 @@
 # Home Assistant Image Metadata Cleaner
 
-This repository contains a Home Assistant addon that allows users to upload images and remove metadata using client-side JavaScript.
+This repository contains a Home Assistant addon that allows users to upload images and remove metadata using a local website page tool accesible at http://metadata-cleaner:8080.
 
 ## Features
 
