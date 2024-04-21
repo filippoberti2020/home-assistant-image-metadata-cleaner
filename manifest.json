@@ -1,0 +1,16 @@
+{
+  "addon_id": "metadata_remover",
+  "name": "Metadata Remover",
+  "description": "A tool to remove metadata from images",
+  "version": "1.0.0",
+  "container": "local",
+  "supports_docker": false,
+  "options": {
+    "port": {
+      "title": "Port",
+      "description": "Port to run the web interface",
+      "type": "number",
+      "default": 8080
+    }
+  }
+}
