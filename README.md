@@ -1,0 +1,1 @@
+# home-assistant-image-metadata-cleaner
